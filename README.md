@@ -1,0 +1,2 @@
+# Bank-Customer-Segmentation--Clustering
+Business Problem:  The bank's marketing team would like to launch a targeted marketing ad campaign that is tailored to the specific group of customers. In order for this campaign to be successful, the bank has to divide its customers into at least 3 distinctive groups to maximize the marketing campaign conversion rate.  Approach:  Performed EDA, Kmeans algorithm for clustering using Elbow method for optimization, Principal Component Analysis to visualize the results.
